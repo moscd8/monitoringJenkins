@@ -3,6 +3,7 @@
 <body>
   <%
     double num = Math.random();
+	<h1>test1</h1>
     if (num > 0.95) {
   %>
       <h2>You'll havea a luck test1 day!</h2><p>(<%= num %>)</p>
