@@ -1,7 +1,7 @@
 <html>
 <head><title>First JSP</title></head>
 <body>
-<h1>test1</h1>
+<h1>test2</h1>
   <%
     double num = Math.random();
 	
